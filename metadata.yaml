@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38289'
     url: http://www.gutenberg.org/2009/agents/38289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36469#Voyage-d-un-jeune-grec---Paris--Vol.-2-of-2-
 gutenberg_bookshelf: FR Villes
 gutenberg_issued: '2011-06-19'
 gutenberg_type: Text
