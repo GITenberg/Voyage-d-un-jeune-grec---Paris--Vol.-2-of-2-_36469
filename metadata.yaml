@@ -1,0 +1,28 @@
+_repo: Voyage-d-un-jeune-grec---Paris--Vol.-2-of-2-_36469
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mazier du Heaume, Hippolyte
+    aliases:
+    - Heaume, Hippolyte Mazier du
+    - Du Heaume, Hippolyte Mazier
+    gutenberg_agent_id: '38289'
+    url: http://www.gutenberg.org/2009/agents/38289
+description: ''
+gutenberg_bookshelf: FR Villes
+gutenberg_issued: '2011-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36469'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcc 'DC'
+title: Voyage d'un jeune grec à Paris (Vol. 2 of 2)
+url: http://www.gutenberg.org/ebooks/36469
